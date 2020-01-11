@@ -1,2 +1,2 @@
-# Tharindu-APP-Weekend-
+# Tharindu-APP-Weekend
 React Native APP - AMDT (Weekend Batch)
